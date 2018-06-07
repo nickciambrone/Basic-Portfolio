@@ -1,0 +1,82 @@
+html {
+    margin: 0;
+}
+#top {
+    background-color: white;
+    width: 100%
+}
+body{
+    background-image: url(assets/~images/country-quilt.png)
+}
+h1 {
+    background-color: #4aaaa5;
+    width: 240px;
+    padding:3px;
+    color: white;
+    text-align: center; 
+    line-height: 75px;  
+    font-size: 24px;
+    position:fixed;
+    left:200px;
+    top:0px;
+    font: georgia;
+}
+img{
+    float: left;
+    margin-left:-35px;
+    position: relative;
+    left:-10px;
+}
+h2{
+    color:#4aaaa5;
+    font:georgia;
+    font-size: 24px;
+    margin-top:-50px;
+    margin-left: -40px;
+}
+#main {
+    background-color: #ffffff;
+    margin: 30px 250px 100px 200px;
+    padding: 80px;
+
+}
+
+#stuff {
+    position:fixed;
+    right:250px;
+    top:30px;
+}
+#bio {
+    word-spacing: 0px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    margin-left: -55px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+}
+#line {
+    margin-top: 0px;
+    background-color:grey;
+    z-index: 10;
+    height: 3px;
+    width: 100%;
+
+}
+#top {
+    background-color: white;
+    padding: 40px;
+}
+#bottom{
+    background-color:rgb(20, 20, 20);
+    width: 94.3%;
+    height: 2%;
+    padding: 30px;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: #4aaaa5;
+    border-width: 7px;
+    border-style: solid;
+    position: fixed;
+    top: 650px;
+}
